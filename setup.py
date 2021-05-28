@@ -33,7 +33,7 @@ setup(name='mits',
       author_email='roderik.ploszek@gmail.com',
       license='MIT',
       packages=['mits'],
-      install_requires=['paramiko==1.16.0', 'scp==0.10.2', 'pyyaml'],
+      install_requires=['paramiko==2.0.9', 'scp==0.10.2', 'pyyaml'],
       zip_safe=True,
       include_package_data=True,
       cmdclass={'install': MyInstall})
