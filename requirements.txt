@@ -1,2 +1,2 @@
-paramiko==1.16.0
+paramiko==2.10.1
 scp==0.10.2
